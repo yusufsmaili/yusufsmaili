@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Yusuf Smaili
 
-<!--
-**yusufsmaili/yusufsmaili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Technology @ NYCCT  
+🧠 Road to becoming a GPU/CPU Engineer | Class of 2026  
+⚙️ Focused on hardware, logic design, and digital systems  
+📍 Brooklyn, NY  
 
-Here are some ideas to get you started:
+## 🔧 Projects
+- [Digital Trainer Box](https://github.com/yusufsmaili/digital-trainer-box)  
+  Hands-on circuit design, soldering, logic testing, and build documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More coming soon:  
+🎮 Arcade Claw Machine | 🛠️ SolidWorks CAD Model
+
+## 📫 Let's Connect
+- **Email:** yusufsmaili@gmail.com  
+- **LinkedIn:** [linkedin.com/in/yusuf-smaili-1545202a4](https://www.linkedin.com/in/yusuf-smaili-1545202a4)
