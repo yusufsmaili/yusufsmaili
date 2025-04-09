@@ -8,9 +8,11 @@
 ## 🔧 Projects
 - [Digital Trainer Box](https://github.com/yusufsmaili/digital-trainer-box)  
   Hands-on circuit design, soldering, logic testing, and build documentation
+- [Arcade Claw Machine](https://github.com/yusufsmaili/Arcade-Claw-Machine)
+  Arduino, C++, use of mechanical/electrical components, joystick, and build documentation
 
 More coming soon:  
-🎮 Arcade Claw Machine | 🛠️ SolidWorks CAD Model
+🛠️ SolidWorks CAD Model
 
 ## 📫 Let's Connect
 - **Email:** yusufsmaili@gmail.com  
